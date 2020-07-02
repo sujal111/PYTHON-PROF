@@ -1,0 +1,1 @@
+[x if x in 'aeiou' else '*' for x in 'apple'] 
