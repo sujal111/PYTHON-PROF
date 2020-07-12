@@ -1,0 +1,12 @@
+nums_1=[8,3,4,9,2]
+nums_2=[4,50,1,8]
+nums_1.sort()
+nums_2.sort()
+print(nums_1)
+print(nums_2)
+total_1=sum(nums_1)
+total_2=sum(nums_2)
+print(total_1)
+print(total_2)
+median=total_1+total_2/2
+print(median)
